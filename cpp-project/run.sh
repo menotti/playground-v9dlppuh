@@ -1,5 +1,10 @@
 #!/bin/sh
 
+ls -l /
+ls -l /opt/
+ls -l /opt/intel/
+ls -l /opt/intel/inteloneapi/
+
 source /opt/intel/inteloneapi/setvars.sh
 
 sample=$1
