@@ -2,5 +2,4 @@
 
 cd /project/target
 
-cmake .
-make
+./run.sh
